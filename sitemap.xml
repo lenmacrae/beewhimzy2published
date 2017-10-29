@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://beewhimzy.com/portfolio/test/</loc>
-    <lastmod>2017-07-06T17:34:37+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://beewhimzy.com/portfolio/jumper_1/</loc>
     <lastmod>2017-07-06T07:15:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://beewhimzy.com/portfolio/purse_1/</loc>
-    <lastmod>2017-07-06T07:13:33-06:00</lastmod>
   </url>
   
   <url>
@@ -129,7 +119,7 @@
   
   <url>
     <loc>http://beewhimzy.com/</loc>
-    <lastmod>2017-07-06T17:34:37+00:00</lastmod>
+    <lastmod>2017-07-06T07:15:30-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,7 +130,7 @@
   
   <url>
     <loc>http://beewhimzy.com/portfolio/</loc>
-    <lastmod>2017-07-06T17:34:37+00:00</lastmod>
+    <lastmod>2017-07-06T07:15:30-06:00</lastmod>
     <priority>0</priority>
   </url>
   
